@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kurt Justine</h1>
-<h3 align="center">Computer Science student specializing in Machine Learning</h3>
+<h3 align="center">Computer Science Student Specializing in Machine Learning</h3>
 <p align="center">I'm passionate about exploring, innovating, and solving real-world problems through tech. Always eager to learn, grow, and push boundaries with new technologies.</p>
 
 ---
